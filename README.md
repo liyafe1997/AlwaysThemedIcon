@@ -31,6 +31,7 @@ But as I test with Apex Launcher, these methods doesn't take effort. Seems with 
 这个模块是让第三方Launcher的图标也能使用MIUI的主题图标。也许在其它第三方Android OS上也起作用，如果他们也用同样的方法来处理主题和图标的话。
 
 以下左图是Apex Launcher，没安装模块只能显示App原始图标，右图为安装了该模块，可以显示MIUI的主题图标
+
   <img src="https://user-images.githubusercontent.com/18359157/178597526-098630d7-13bb-4f01-ae04-30f91e286922.jpg" width="35%">   <img src="https://user-images.githubusercontent.com/18359157/178597503-bf5f0027-4ad6-45be-b561-e8bfc65f2790.jpg" width="35%"> 
   
 ## 工作原理
