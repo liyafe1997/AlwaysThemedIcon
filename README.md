@@ -5,7 +5,7 @@
 [![Download](https://img.shields.io/github/downloads/liyafe1997/AlwaysThemedIcon/total)](https://github.com/liyafe1997/AlwaysThemedIcon/releases)
 ## Introduction
 
-This module can let third party launcher always use icons with MIUI Themes. It may also work with other custom Android based OS, if they have the same logic of the theme and icon stuff.
+This module can let third party launcher always use icons with MIUI/Flyme Themes. It may also work with other custom Android based OS, if they have the same logic of the theme and icon stuff. (As I tested it also works with Flyme)
 
 The left one is Apex Launcher without this module, the right one is with this module enabled.
 
@@ -28,7 +28,7 @@ But as I test with Apex Launcher, these methods doesn't take effort. Seems with 
 # 简体中文 (Simplified Chinese)
 
 ## 介绍
-这个模块是让第三方Launcher的图标也能使用MIUI的主题图标。也许在其它第三方Android OS上也起作用，如果他们也用同样的方法来处理主题和图标的话。
+这个模块是让第三方Launcher的图标也能使用MIUI/Flyme的主题图标。也许在其它第三方Android OS上也起作用，如果他们也用同样的方法来处理主题和图标的话。（据测试，在Flyme上也起作用）
 
 以下左图是Apex Launcher，没安装模块只能显示App原始图标，右图为安装了该模块，可以显示MIUI的主题图标
 
